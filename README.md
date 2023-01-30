@@ -1,4 +1,4 @@
-# Prims:The A.I art generator
+# Prims:The A.I art generator ⚡
 
 ## The A.I has changed a lot in recent time and we can see that in our daily lives also in our work so inspired by the human mind I built an app that uses the Neural network and data sets to generate image based on the given description.
 
