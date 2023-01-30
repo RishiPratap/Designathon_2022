@@ -12,6 +12,14 @@
 ## A.I machine learning
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72687585/215541481-f4110a0d-621d-48a3-b695-1389e82c659b.png">
 
+## Web Preview 1
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/72687585/215541878-e4e6d6d1-5651-444b-b92a-79f1be61825a.png">
 
-### Video Link
+## Web Preview 2
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72687585/215541920-84d95b04-9dff-4591-92e9-93ad47d1474a.png">
+
+## Web Preview 3
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/72687585/215542972-7e7ecbb4-788f-4973-bcbc-19d1449882e6.png">
+
+## Video Link
 https://capture.dropbox.com/gbByVkKas7NinQeL
